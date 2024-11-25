@@ -34,6 +34,8 @@
 
 17. "git switch main" para cambiar a la rama main.
 
-18. "git merge David gonzalez" para unificar las ramas.
+18. "git merge DavidGonzalez" para unificar las ramas.
 
-19. "git push" para subir todos los cambios al repositorio remoto.
+19. Añadir las capturas a la carpeta assets.
+
+20. "git push" para subir todos los cambios al repositorio remoto.
