@@ -1,3 +1,3 @@
 #Ignoramos archivos fuente de Photoshop.
 /docs/
-.xsd
+*.xsd
